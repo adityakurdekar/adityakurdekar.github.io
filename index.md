@@ -1,7 +1,7 @@
 ## Aditya Kurdekar
 
 I am Dr. Aditya Kurdekar and I welcome you to my webpage. 
-
+I am a Nanotechnology researcher with interest in novel nanomaterial properties and their application in nanodiagnostics. I am working towards deployment of engineered nanomaterials in health technology with the aim of developing rapid diagnostic tools and techniques. 
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
