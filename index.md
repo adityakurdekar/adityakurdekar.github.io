@@ -1,3 +1,4 @@
+![d73664cc982cccb2decd6dba9894f17b](https://user-images.githubusercontent.com/74566335/99410152-26181b00-2918-11eb-87e9-1dca9b9d6af5.jpg)
 ## Aditya Kurdekar
 
 I am Dr. Aditya Kurdekar and I welcome you to my webpage. 
